@@ -1,0 +1,33 @@
+{
+    "$schema": "https://schema.management.azure.com/schemas/2015-01-01/deploymentParameters.json#",
+    "contentVersion": "1.0.0.0",
+    "parameters": {
+        "virtualMachines_ScoBuild_1_name": {
+            "value": null
+        },
+        "publicIPAddresses_scobuildbuild_name": {
+            "value": null
+        },
+        "networkInterfaces_ScoBuild_nic_0_name": {
+            "value": null
+        },
+        "virtualNetworks_scobuild_055317d8_name": {
+            "value": null
+        },
+        "loadBalancers_scobuild_loadbalancer_name": {
+            "value": null
+        },
+        "sqlVirtualMachines_scobuild_1_name": {
+            "value": null
+        },
+        "storageAccounts_scobuildcfcf19410115985c_name": {
+            "value": null
+        },
+        "schedules_shutdown_computevm_scobuild_1_name": {
+            "value": null
+        },
+        "networkSecurityGroups_scobuild_networksecuritygroup_name": {
+            "value": null
+        }
+    }
+}
